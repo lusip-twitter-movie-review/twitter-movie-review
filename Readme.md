@@ -29,6 +29,7 @@ The project will use lexicon/SVM methods to generate movie review ratings from t
 
 
 - Nouns are being included in sentiment analysis.
+
 > The Shallows is a good movie.
 
 Here shallow which is a noun in this context is included in rating with negative score.
